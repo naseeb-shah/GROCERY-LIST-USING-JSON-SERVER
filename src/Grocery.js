@@ -1,5 +1,5 @@
 
-import Grocery from "./GroceryInput";
+import Grocery from "./input";
 
 export default function App() {
   return (

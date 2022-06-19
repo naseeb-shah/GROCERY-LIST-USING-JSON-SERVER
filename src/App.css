@@ -90,3 +90,13 @@
 }
 
 
+table, th, td {
+  border:1px solid black;
+}
+
+table{
+  width: 100%;
+}
+td{
+  width: 20%;
+}
